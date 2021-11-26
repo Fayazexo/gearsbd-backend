@@ -1,3 +1,3 @@
-# Strapi application
+# Gearsbd Backend Application
 
-A quick description of your strapi application
+Gearsbd backend API server to maintain and serve files
