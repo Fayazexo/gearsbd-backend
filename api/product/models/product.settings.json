@@ -48,6 +48,10 @@
     },
     "description": {
       "type": "richtext"
+    },
+    "orders": {
+      "via": "product",
+      "collection": "order"
     }
   }
 }
